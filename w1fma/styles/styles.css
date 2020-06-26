@@ -1,0 +1,32 @@
+* {
+   list-style-type: none;
+}
+
+#controls{
+	padding: 1em;
+	margin: 0.5em;
+}
+
+input{
+	margin-bottom: 0.5em;
+	display: block; 
+}
+
+#descField{
+	width: 400px; 
+}
+
+.thumImg{
+	float: left; 
+	padding: 3em; 
+}
+ 
+.largeImg{
+	 
+	text-align: center;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+
+}
+  
